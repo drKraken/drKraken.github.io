@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Oleh Kuchuk]]></title>
-  <link href="http://drkraken.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Oleh Kuchuk]]></title>
+  <link href="http://drkraken.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://drkraken.github.io/"/>
   <updated>2015-02-03T23:12:22+02:00</updated>
   <id>http://drkraken.github.io/</id>
@@ -20,17 +20,6 @@
     <id>http://drkraken.github.io/blog/2015/02/second-post</id>
     <content type="html"><![CDATA[<p>SecondPost
 test</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My First Post]]></title>
-    <link href="http://drkraken.github.io/blog/2015/02/my-first-post/"/>
-    <updated>2015-02-03T21:56:04+02:00</updated>
-    <id>http://drkraken.github.io/blog/2015/02/my-first-post</id>
-    <content type="html"><![CDATA[<p>My very first post with Octopress</p>
-
-<p>Hi there!</p>
 ]]></content>
   </entry>
   
