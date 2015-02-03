@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Oleh Kuchuk]]></title>
+  <link href="http://drkraken.github.io/atom.xml" rel="self"/>
+  <link href="http://drkraken.github.io/"/>
+  <updated>2015-02-03T23:00:34+02:00</updated>
+  <id>http://drkraken.github.io/</id>
+  <author>
+    <name><![CDATA[Oleh Kuchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://drkraken.github.io/blog/2015/02/my-first-post/"/>
+    <updated>2015-02-03T21:56:04+02:00</updated>
+    <id>http://drkraken.github.io/blog/2015/02/my-first-post</id>
+    <content type="html"><![CDATA[<p>My very first post with Octopress</p>
+
+<p>Hi there!</p>
+]]></content>
+  </entry>
+  
+</feed>
