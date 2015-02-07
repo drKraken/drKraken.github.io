@@ -4,7 +4,7 @@
   <title><![CDATA[Oleh Kuchuk]]></title>
   <link href="http://drkraken.github.io/atom.xml" rel="self"/>
   <link href="http://drkraken.github.io/"/>
-  <updated>2015-02-07T13:06:40+02:00</updated>
+  <updated>2015-02-07T15:13:44+02:00</updated>
   <id>http://drkraken.github.io/</id>
   <author>
     <name><![CDATA[Oleh Kuchuk]]></name>
@@ -15,10 +15,45 @@
   
   <entry>
     <title type="html"><![CDATA[Journey Into the Wonderful World of CG]]></title>
-    <link href="http://drkraken.github.io/blog/2015/02/journey-into-the-wonderful-world-of-cg/"/>
+    <link href="http://drkraken.github.io/blog/2015/02/07/journey-into-the-wonderful-world-of-cg/"/>
     <updated>2015-02-07T13:05:02+02:00</updated>
-    <id>http://drkraken.github.io/blog/2015/02/journey-into-the-wonderful-world-of-cg</id>
-    <content type="html"><![CDATA[<p>In this article i want you to tell story about</p>
+    <id>http://drkraken.github.io/blog/2015/02/07/journey-into-the-wonderful-world-of-cg</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m not a really pro of CG, but in this article i want to tell story about my way of diving into computer graphic world.
+Not so long ago, i was delighted by arts of some CG artist on <a href="https://www.artstation.com/">ArtStation</a> and i decided to learn more as i can about 3d. So i started to search forums how technical person can dive in artistic world. So this is what i came to.</p>
+
+<h2>Hand drawing will be useful</h2>
+
+<p>First of all, you must start to train you hand drawing skills.
+Of course, you can use polygon modelling technics and not use software like <a href="http://pixologic.com/zbrush/features/overview/">Zbrush</a> or <a href="http://www.autodesk.com/products/mudbox/overview">Mudbox</a> but in some period you will come to point were free hand drawing is critical.</p>
+
+<h2>Decide what you want to do</h2>
+
+<p>Then when you have some classical artistic skills you can decide what you want to learn 3d, 2d or maybe VFX . You can model characters for games of films or maybe draw concepts for it. So you must make a decision. CG world is wide and you can not learn everything for a first time.</p>
+
+<h2>Find goodies for begginers</h2>
+
+<p>Then when you make it you can start learning special software and dive into useful technics.
+Lets discuss some of this.</p>
+
+<h3>For 3D</h3>
+
+<p>You can use Maya, 3Ds Max, Blender, Cinema 4d , AutoCAD . As you see a lot of software and it is not end, but you must choose one you like. I reccomend Maya and Blender because i work with it and they are very powerful. <br>
+<strong>Education resources:</strong> <a href="">Digital-tutors</a>, <a href="">Gnomon</a>, <a href="">Eat3d</a>, <a href="">Lynda.com</a>, <a href="">CGCookie</a></p>
+
+<h3>For 2D</h3>
+
+<p>Most of all time you will use Photoshop and of course you need some painting board like Wacom Bamboo because mouse painting is uncomfortable. <br>
+<strong>Education resources:</strong> <a href="">Digital-tutors</a>, <a href="">Gnomon</a>,  <a href="">Udemy</a>, <a href="">Matt Kohr</a></p>
+
+<h3>For VFX</h3>
+
+<p>Same software as for 3d and 2d.
+For VFX development you need to know 3d as well as 2d and have nice math skills and maybe programming for developing useful plugins. I believe, that Maya use Python for it. <br>
+<strong>Education resources:</strong> <a href="">Digital-tutors</a>, <a href="">Gnomon</a></p>
+
+<p>Of course its only top of the iceberg, but it can be useful for you for the first time and can eliminate some of the questions that I had had.</p>
+
+<p><strong>Good luck with your trip to amazing artistic world!</strong></p>
 ]]></content>
   </entry>
   
