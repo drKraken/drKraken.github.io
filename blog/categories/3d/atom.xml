@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Oleh Kuchuk]]></title>
-  <link href="http://drkraken.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 3d | Oleh Kuchuk]]></title>
+  <link href="http://drkraken.github.io/blog/categories/3d/atom.xml" rel="self"/>
   <link href="http://drkraken.github.io/"/>
   <updated>2015-02-07T13:06:40+02:00</updated>
   <id>http://drkraken.github.io/</id>
